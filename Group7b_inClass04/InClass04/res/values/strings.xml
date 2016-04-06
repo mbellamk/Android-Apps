@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass04</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_sel_complexity">Select Complexity:</string>
+    <string name="lbl_generate_num_thread">Generate Number Thread</string>
+    <string name="lbl_gen_async">Generate Number Async Task</string>
+    <string name="lbl_btn_photo">Photo Slide Show</string>
+    <string name="title_activity_slide_show">SlideShowActivity</string>
+
+</resources>

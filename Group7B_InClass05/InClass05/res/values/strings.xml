@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass05</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">Search Keyword</string>
+    <string name="go">Go</string>
+    <string name="imageContent">Image...</string>
+    <string name="leftArrowContent">Load Previous Photo</string>
+    <string name="rightArrowContent">Load Next Image</string>
+
+</resources>

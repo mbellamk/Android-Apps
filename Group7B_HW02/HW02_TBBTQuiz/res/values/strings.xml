@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Splash</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="exit">Exit</string>
+    <string name="quizstart">Start Quiz</string>
+    <string name="logodes">logo</string>
+    <string name="welcomeMessage">Welcome To TBBT Quiz</string>
+    <string name="loader">Loading Image...</string>
+    <string name="title_activity_quiz">Quiz</string>
+    <string name="next">Next</string>
+    <string name="quit">Quit</string>
+    <string name="title_activity_result">Results</string>
+    <string name="result">Quiz Result</string>
+    <string name="correctAnswers">Correct Answers:</string>
+    <string name="comments">Try Again and see if you can get all the correct answers!</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="loaderQuestions">Loading Questions...</string>
+
+</resources>

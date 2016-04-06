@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass03</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="pl">Favorite Programming Language</string>
+    <string name="java">Java</string>
+    <string name="c">C</string>
+    <string name="chash">C#</string>
+    <string name="account">Account is searchable:</string>
+    <string name="mood">You Current Mood:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="title_activity_display">Display Activity</string>
+    <string name="displayName">Name:</string>
+    <string name="displayEmail">Email:</string>
+    <string name="displayPL">Prog. Language:</string>
+    <string name="displayaccount">Account State:</string>
+    <string name="displayMood">Mood:</string>
+    <string name="editContent">edit</string>
+    <string name="title_activity_edit">Edit Activity</string>
+    <string name="save">SAVE</string>
+
+</resources>

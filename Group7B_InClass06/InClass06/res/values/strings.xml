@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass06</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="searchTermHint">Enter Keyword Search Term</string>
+    <string name="submi">SUBMIT</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="by">By:</string>
+    <string name="loaderMsg">Loading Results...</string>
+
+</resources>
